@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[legendaries]]>
+    </line>
+    <line>
+      <![CDATA[nfes]]>
+    </line>
+    <line>
+      <![CDATA[sprites]]>
+    </line>
+    <line>
+      <![CDATA[natures]]>
+    </line>
+    <line>
+      <![CDATA[forms]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-11T12:27:17Z" name="Default suite" finished-at="2022-08-11T12:27:22Z" duration-ms="4989">
+    <groups>
+    </groups>
+    <test started-at="2022-08-11T12:27:17Z" name="Default test" finished-at="2022-08-11T12:27:22Z" duration-ms="4989">
+      <class name="com.juaracoding.TestHello.TestHello">
+        <test-method is-config="true" signature="createDriver()[pri:0, instance:com.juaracoding.TestHello.TestHello@6be968ce]" started-at="2022-08-11T12:27:17Z" name="createDriver" finished-at="2022-08-11T12:27:22Z" duration-ms="4438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="test()[pri:0, instance:com.juaracoding.TestHello.TestHello@6be968ce]" started-at="2022-08-11T12:27:22Z" name="test" finished-at="2022-08-11T12:27:22Z" duration-ms="516" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[legendaries]]>
+            </line>
+            <line>
+              <![CDATA[nfes]]>
+            </line>
+            <line>
+              <![CDATA[sprites]]>
+            </line>
+            <line>
+              <![CDATA[natures]]>
+            </line>
+            <line>
+              <![CDATA[forms]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.juaracoding.TestHello.TestHello -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
